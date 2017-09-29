@@ -61,9 +61,10 @@ does not have life.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## Faith is the Victory [(1Jn5a)](# "ref")
-1. Point **One** [(v)](# "ref")
-2. Point **Two** [(v)](# "ref")
-3. Point **Three** [(v)](# "ref")
+1. **Love** [(v1)](# "ref")
+2. **Obedience** [(v2-3a)](# "ref")
+3. **Victory** [(v3b-4)](# "ref")
+4. **Faith** [(v5,12](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
