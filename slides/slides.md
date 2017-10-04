@@ -20,8 +20,11 @@ loves whoever has been born of him.
 
 ---
 [2](# "ref")
-By this we know that we love the children of God,<br>
-when we love God and obey his commandments.
+By this we know that we love <br>
+the children of God,
+
+when we love God <br>
+and obey his commandments.
 
 [3](# "ref")
 For this is the love of God,<br>
@@ -30,7 +33,8 @@ that we keep his commandments.
 [1 John 5:2-3 (ESV) (p.2/5)](# "ref")
 
 ---
-And his commandments are not burdensome.
+And his commandments <br>
+are not burdensome.
 
 [4](# "ref")
 For everyone who has been born of God<br>
@@ -64,7 +68,7 @@ does not have life.
 1. **Love** [(v1)](# "ref")
 2. **Obedience** [(v2-3a)](# "ref")
 3. **Victory** [(v3b-4)](# "ref")
-4. **Faith** [(v5,12](# "ref")
+4. **Faith** [(v5,12)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
