@@ -72,6 +72,7 @@ that Jesus is the Son of God?
 [1 John 5:4-5 (ESV) (p.4/5)](# "ref")
 
 >>>
++ solution to internal struggle: Ro8
 + faith: not power of conviction
 + believe &rArr; victorious
 
