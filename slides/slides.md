@@ -72,18 +72,37 @@ does not have life.
 2. Keeping God's **Word** [(v2-3)](# "ref")
 3. Trusting in God's **Victory** [(v4-5)](# "ref")
 
+>>>
++ themes in 1Jn: **love**, **child**/Father, **faith**, **command**
++ response to Gnosticism
+
 ---
 Everyone who **believes** <br>
 that Jesus is the **Christ**
+
+has been *born* of God,
+
+[1 John 5:1a (ESV)](# "ref")
+
+>>>
++ **believe** (faith, trust):
+  + not intellec **assent**
+  + trust &rArr; **action**
++ not just that God **exists**
++ Christ: "I am" claims (John)
+
+---
+Everyone who *believes* <br>
+that Jesus is the *Christ*
 
 has been **born** of God,
 
 [1 John 5:1a (ESV)](# "ref")
 
 >>>
-+ Christ: "I am" claims (John)
 + born: John 3, Gal Hagar
 + believe &rArr; born
+  + not just **me**, but **others**, too:
 
 ---
 Everyone who *believes* <br>
