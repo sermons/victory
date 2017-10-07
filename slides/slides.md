@@ -4,9 +4,23 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Why should I **love** you? 
 
 [###](#/outline "secret")
+
+>>>
++ gf/bf: love if not reciprocated? 
++ bad reasons (e.g., to son):
+  + you're cute
+  + I'm your father, I have to
+  + if I don't, I look bad
+  + so you'll love me back
+  + so you'll respect me when old
++ good reasons:
+  + to be more godly (4:7)
+  + bc God first loved us (4:11,19)
+  + easier than loving God (4:20)
+  + command (4:21)
 
 ---
 [1](# "ref")
@@ -19,7 +33,7 @@ loves whoever has been born of him.
 [1 John 5:1 (ESV) (p.1/5)](# "ref")
 
 >>>
-+ Christ: "I am" (John)
++ Christ: "I am" claims (John)
 + born: John 3, Gal Hagar
 + believe &rArr; born
   + love God &rArr; love those born
@@ -42,6 +56,7 @@ that we keep his commandments.
 + John: love Jesus iff obey commands
 + love God + obey cmd &rArr; love those born
 + love of God: 4:12 remains in us
++ command: 3:23 believe name + love e.o.
 
 ---
 And his commandments <br>
