@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What should a Christian's **heart** look like?
+# What is the **heart** of a child of God?
 
 [###](#/outline "secret")
 
@@ -100,7 +100,7 @@ loves whoever has been **born** of him.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why should I **love** the children of God?
+# Why should I **love** the children <br> of God?
 
 >>>
 + gf/bf: love if not reciprocated?
@@ -144,7 +144,8 @@ that we **keep** his commandments.
 + love of God: 4:12 remains in us
 
 ---
-And his commandments are not **burdensome**.
+And his commandments <br>
+are not **burdensome**.
 
 [1 John 5:3b (ESV)](# "ref")
 
@@ -154,7 +155,7 @@ And his commandments are not **burdensome**.
 
 ---
 <!-- .slide: data-background="white" -->
-# In my **love** for others, <br> do I treasure God's **Word**?
+# In my **love** <br> for others, <br> do I treasure <br> God's **Word**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
