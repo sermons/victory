@@ -23,13 +23,7 @@ is the Christ has been born of God,
 and everyone who loves the Father <br>
 loves whoever has been born of him.
 
-[1 John 5:1 (ESV) (p.1/5)](# "ref")
-
->>>
-+ Christ: "I am" claims (John)
-+ born: John 3, Gal Hagar
-+ believe &rArr; born
-  + love God &rArr; love those born
+[1 John 5:1 (ESV) (p.1/4)](# "ref")
 
 ---
 [2](# "ref")
@@ -43,33 +37,15 @@ and obey his commandments.
 For this is the love of God,<br>
 that we keep his commandments.
 
-[1 John 5:2-3 (ESV) (p.2/5)](# "ref")
+And his commandments are not burdensome.
 
->>>
-+ John: love Jesus iff obey commands
-+ love God + obey cmd &rArr; love those born
-+ love of God: 4:12 remains in us
-+ command: 3:23 believe name + love e.o.
+[1 John 5:2-3 (ESV) (p.2/4)](# "ref")
 
 ---
-And his commandments <br>
-are not burdensome.
-
 [4](# "ref")
 For everyone who has been born of God<br>
 overcomes the world.
 
-[1 John 5:3-4 (ESV) (p.3/5)](# "ref")
-
->>>
-+ burden: heavy (vs glory? )
-+ burden || world?
-  + struggle w/sin
-  + world: ch1:16
-+ internal struggle: Ro7
-+ born &rArr; victorious
-
----
 And this is the victory <br>
 that has overcome the world — our faith.
 
@@ -78,12 +54,7 @@ Who is it that overcomes the world <br>
 except the one who believes <br>
 that Jesus is the Son of God?
 
-[1 John 5:4-5 (ESV) (p.4/5)](# "ref")
-
->>>
-+ solution to internal struggle: Ro8, 2:17
-+ faith: not power of conviction
-+ believe &rArr; victorious
+[1 John 5:4-5 (ESV) (p.3/4)](# "ref")
 
 ---
 [12](# "ref")
@@ -92,10 +63,7 @@ Whoever has the Son has life;
 whoever does not have the Son of God <br>
 does not have life.
 
-[1 John 5:12 (ESV) (p.5/5)](# "ref")
-
->>>
-+ (for closing)
+[1 John 5:12 (ESV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
@@ -103,6 +71,32 @@ does not have life.
 1. Showing God's **Love** [(v1)](# "ref")
 2. Keeping God's **Word** [(v2-3)](# "ref")
 3. Trusting in God's **Victory** [(v4-5)](# "ref")
+
+---
+Everyone who **believes** <br>
+that Jesus is the **Christ**
+
+has been **born** of God,
+
+[1 John 5:1a (ESV)](# "ref")
+
+>>>
++ Christ: "I am" claims (John)
++ born: John 3, Gal Hagar
++ believe &rArr; born
+
+---
+Everyone who *believes* <br>
+that Jesus is the *Christ* <br>
+has been *born* of God,
+
+and everyone who loves the **Father** <br>
+loves whoever has been **born** of him.
+
+[1 John 5:1 (ESV)](# "ref")
+
+>>>
++ love God &rArr; love those born
 
 ---
 <!-- .slide: data-background="white" -->
@@ -130,6 +124,35 @@ does not have life.
 3. Trusting in God's Victory [(v4-5)](# "ref")
 
 ---
+By this we **know** that <br>
+we love the children of God,
+
+when we **love** God <br>
+and **obey** his commandments.
+
+[1 John 5:2 (ESV)](# "ref")
+
+---
+For this is the **love** of God,<br>
+that we **keep** his commandments.
+
+[1 John 5:3a (ESV)](# "ref")
+
+>>>
++ John: love Jesus iff obey commands
++ love God + obey cmd &rArr; love those born
++ love of God: 4:12 remains in us
+
+---
+And his commandments are not **burdensome**.
+
+[1 John 5:3b (ESV)](# "ref")
+
+>>>
++ command: 3:23 believe name + love e.o.
++ burden: heavy (vs glory? )
+
+---
 <!-- .slide: data-background="white" -->
 # In my **love** for others, <br> do I treasure God's **Word**?
 
@@ -139,6 +162,53 @@ does not have life.
 1. Showing God's Love [(v1)](# "ref")
 2. Keeping God's Word [(v2-3)](# "ref")
 3. **Trusting in God's Victory** [(v4-5)](# "ref")
+
+---
+And his commandments are not *burdensome*.
+
+[4](# "ref")
+For everyone who has been **born** of God<br>
+**overcomes** the **world**.
+
+[1 John 5:3b-4a (ESV)](# "ref")
+
+>>>
++ burden || world?
+  + struggle w/sin
+  + world: ch1:16
++ internal struggle: Ro7
++ born &rArr; victorious
+
+---
+And this is the **victory** <br>
+that has overcome the world — our **faith**.
+
+[5](# "ref")
+Who is it that **overcomes** the world <br>
+except the one who **believes** <br>
+that Jesus is the **Son of God**?
+
+[1 John 5:4b-5 (ESV)](# "ref")
+
+>>>
++ solution to internal struggle: Ro8, 2:17
++ faith: not power of conviction
++ believe &rArr; victorious
+
+---
+[11](# "ref")
+This is the **testimony**,
+
+that God gave us **eternal life**, <br>
+and this life is in his **Son**.
+
+[12](# "ref")
+Whoever **has** the Son has life;
+
+whoever does **not** have the Son of God <br>
+does not have life.
+
+[1 John 5:11-12 (ESV)](# "ref")
 
 >>>
 + mercy triumphs over judgment (Jam2)
