@@ -4,23 +4,16 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Why should I **love** you? 
+# What should a Christian's **heart** look like?
 
 [###](#/outline "secret")
 
 >>>
-+ gf/bf: love if not reciprocated? 
-+ bad reasons (e.g., to son):
-  + you're cute
-  + I'm your father, I have to
-  + if I don't, I look bad
-  + so you'll love me back
-  + so you'll respect me when old
-+ good reasons:
-  + to be more godly (4:7)
-  + bc God first loved us (4:11,19)
-  + easier than loving God (4:20)
-  + command (4:21)
++ smoker's lung
++ training, aspirations, goals:
+  + not just academics/career
+  + not just family
+  + train up our heart
 
 ---
 [1](# "ref")
@@ -70,7 +63,7 @@ overcomes the world.
 
 >>>
 + burden: heavy (vs glory? )
-+ burden || world? 
++ burden || world?
   + struggle w/sin
   + world: ch1:16
 + internal struggle: Ro7
@@ -107,27 +100,52 @@ does not have life.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## Faith is the Victory [(1Jn5a)](# "ref")
-1. **Love** [(v1)](# "ref")
-2. **Obedience** [(v2-3)](# "ref")
-3. **Victory** [(v4-5)](# "ref")
+1. Showing God's **Love** [(v1)](# "ref")
+2. Keeping God's **Word** [(v2-3)](# "ref")
+3. Trusting in God's **Victory** [(v4-5)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Why should I **love** the children of God?
+
+>>>
++ gf/bf: love if not reciprocated?
++ bad reasons (e.g., to son):
+  + you're cute
+  + I'm your father, I have to
+  + if I don't, I look bad
+  + so you'll love me back
+  + so you'll respect me when old
++ good reasons:
+  + to be more godly (4:7)
+  + bc God first loved us (4:11,19)
+  + easier than loving God (4:20)
+  + command (4:21)
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## Faith is the Victory [(1Jn5a)](# "ref")
+1. Showing God's Love [(v1)](# "ref")
+2. **Keeping God's Word** [(v2-3)](# "ref")
+3. Trusting in God's Victory [(v4-5)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# In my **love** for others, <br> do I treasure God's **Word**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## Faith is the Victory [(1Jn5a)](# "ref")
+1. Showing God's Love [(v1)](# "ref")
+2. Keeping God's Word [(v2-3)](# "ref")
+3. **Trusting in God's Victory** [(v4-5)](# "ref")
+
+>>>
++ mercy triumphs over judgment (Jam2)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do I **act** like Christ has **triumphed** over sin?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
