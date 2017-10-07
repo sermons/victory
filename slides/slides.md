@@ -41,6 +41,7 @@ that we keep his commandments.
 >>>
 + John: love Jesus iff obey commands
 + love God + obey cmd &rArr; love those born
++ love of God: 4:12 remains in us
 
 ---
 And his commandments <br>
@@ -56,7 +57,7 @@ overcomes the world.
 + burden: heavy (vs glory? )
 + burden || world? 
   + struggle w/sin
-  + world + passions pass away (ch1)
+  + world: ch1:16
 + internal struggle: Ro7
 + born &rArr; victorious
 
@@ -72,7 +73,7 @@ that Jesus is the Son of God?
 [1 John 5:4-5 (ESV) (p.4/5)](# "ref")
 
 >>>
-+ solution to internal struggle: Ro8
++ solution to internal struggle: Ro8, 2:17
 + faith: not power of conviction
 + believe &rArr; victorious
 
@@ -92,9 +93,8 @@ does not have life.
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## Faith is the Victory [(1Jn5a)](# "ref")
 1. **Love** [(v1)](# "ref")
-2. **Obedience** [(v2-3a)](# "ref")
-3. **Victory** [(v3b-4)](# "ref")
-4. **Faith** [(v5,12)](# "ref")
+2. **Obedience** [(v2-3)](# "ref")
+3. **Victory** [(v4-5)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
