@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> data-state="title" -->
 # Faith is the Victory
 ## 1 John 5:1-5,12
 
@@ -70,7 +70,7 @@ does not have life.
 [1 John 5:12 (ESV) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> id="outline" -->
 ## Faith is the Victory [(1Jn5a)](# "ref")
 1. Showing God's **Love** [(v1)](# "ref")
 2. Keeping God's **Word** [(v2-3)](# "ref")
@@ -97,6 +97,7 @@ does not have life.
   + so you'll **respect** me when old (fear)
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 Everyone who **believes** <br>
 that Jesus is the **Christ**
 
@@ -112,6 +113,7 @@ has been *born* of God,
 + Christ: "**I am**" claims in gospel of John
 
 ---
+<!-- .slide: <%= bg("Ludy-Christ_curses_Pharisees.jpg") %> -->
 Jesus said to them, <br>
 “Truly, truly, I say to you, <br>
 before Abraham was, **I am**.”
@@ -127,6 +129,7 @@ So they picked up **stones** to throw at him
 + why worthy of **stoning**?
 
 ---
+<!-- .slide: <%= bg("Holman_Moses_and_the_Burning_Bush.jpg") %> -->
 "If [...] they ask me, ‘What is his **name**?’ <br>
 what shall I say to them?"
 
@@ -145,6 +148,7 @@ And he said, “Say this to the people of Israel:<br>
 + else making Him out to be a **liar**
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 Everyone who *believes* <br>
 that Jesus is the *Christ*
 
@@ -161,6 +165,7 @@ has been **born** of God,
 + **work** of salvation done by Christ, not our faith:
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 God sent forth his **Son**, [...] <br>
 [5](# "ref")
 to **redeem** those who were under the law,
@@ -182,6 +187,7 @@ crying, “**Abba! Father!**”
   + not just the ones I'm **friends** with:
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 Everyone who *believes* <br>
 that Jesus is the *Christ* <br>
 has been *born* of God,
@@ -200,6 +206,7 @@ loves whoever has been **born** of him.
   + now as **parent**: find those who truly care for my kid
 
 ---
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
 Whoever receives **you** receives **me**, <br>
 and whoever receives me <br>
 receives him who **sent** me.
@@ -231,7 +238,7 @@ he will by no means lose his **reward**.
   + part of meaning of **loving** God
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 ## Faith is the Victory [(1Jn5a)](# "ref")
 1. Showing God's Love [(v1)](# "ref")
 2. **Keeping God's Word** [(v2-3)](# "ref")
@@ -332,7 +339,7 @@ and **love** one another
 # In my **love** <br> for others, <br> do I treasure <br> God's **Word**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 ## Faith is the Victory [(1Jn5a)](# "ref")
 1. Showing God's Love [(v1)](# "ref")
 2. Keeping God's Word [(v2-3)](# "ref")
@@ -457,7 +464,7 @@ does not have life.
 # Do I **believe** in Christ's victory?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 “O **death**, where is your victory? <br>
 O death, where is your **sting**?”
 
@@ -473,5 +480,5 @@ through our Lord **Jesus Christ**.
 [1 Corinthians 15:56-57 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="empty" -->
 
