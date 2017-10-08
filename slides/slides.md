@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the **heart** of a child of God?
+# What is the **heart** of a mature <br> **child** of God?
 
 [###](#/outline "secret")
 
