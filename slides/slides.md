@@ -81,7 +81,7 @@ does not have life.
 + ch4b-5a: why **love** e.o in Christ?
 
 ---
-## Reasons to **Love** God's Children
+## Reasons to **Love** <br> God's Children
 + To be more **godly** [(4:7)](# "ref")
 + Because God **first** loved us [(4:11,19)](# "ref")
 + It is **easier** than loving the unseen God [(4:20)](# "ref")
@@ -127,7 +127,7 @@ So they picked up **stones** to throw at him
 + why worthy of **stoning**?
 
 ---
-"If ... they ask me, ‘What is his **name**?’ <br>
+"If [...] they ask me, ‘What is his **name**?’ <br>
 what shall I say to them?"
 
 [14](# "ref")
@@ -163,7 +163,8 @@ has been **born** of God,
 ---
 God sent forth his **Son**, [...] <br>
 [5](# "ref")
-to **redeem** those who were under the law,  <br>
+to **redeem** those who were under the law,
+
 so that we might receive **adoption** as sons.
 
 [6](# "ref")
@@ -200,10 +201,14 @@ loves whoever has been **born** of him.
 
 ---
 Whoever receives **you** receives **me**, <br>
-and whoever receives me receives him who **sent** me.
+and whoever receives me <br>
+receives him who **sent** me.
 
+[42](# "ref")
 Whoever gives one of these **little ones** <br>
-even a cup of **cold water** because he is a **disciple**, <br>
+even a cup of **cold water**<br>
+because he is a **disciple**, 
+
 truly, I say to you, <br>
 he will by no means lose his **reward**.
 
@@ -259,7 +264,10 @@ and **obey** his commandments.
 For this is the **love** of God,<br>
 that we **keep** his commandments.
 
-[1 John 5:3a (ESV)](# "ref")
+And his commandments <br>
+are not burdensome.
+
+[1 John 5:3 (ESV)](# "ref")
 
 >>>
 + love of God: not our love of God
@@ -299,20 +307,23 @@ does not keep my words.
   + must keep his **commands**
 
 ---
+For this is the *love* of God,<br>
+that we *keep* his commandments.
+
 And his commandments <br>
 are not **burdensome**.
 
-[1 John 5:3b (ESV)](# "ref")
+[1 John 5:3 (ESV)](# "ref")
 
 >>>
 
 ---
-And this is his commandment,
+And this is his **commandment**,
 
-that we believe in the name <br>
+that we **believe** in the name <br>
 of his Son Jesus Christ
 
-and love one another
+and **love** one another
 
 [1 John 3:23 (ESV)](# "ref")
 
@@ -414,7 +425,8 @@ The sting of death is **sin**, <br>
 and the power of sin is the **law**.
 
 [57](# "ref")
-But thanks be to God, who gives us the **victory** <br>
+But thanks be to God, <br>
+who gives us the **victory** <br>
 through our Lord **Jesus Christ**.
 
 [1 Corinthians 15:56-57 (ESV)](# "ref")
@@ -446,7 +458,19 @@ does not have life.
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-## closing
+“O **death**, where is your victory? <br>
+O death, where is your **sting**?”
+
+[56](# "ref")
+The sting of death is **sin**, <br>
+and the power of sin is the **law**.
+
+[57](# "ref")
+But thanks be to God, <br>
+who gives us the **victory** <br>
+through our Lord **Jesus Christ**.
+
+[1 Corinthians 15:56-57 (ESV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
