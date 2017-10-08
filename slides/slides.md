@@ -300,6 +300,7 @@ but rejoices with the **truth**.
 + Christ to disciples **iff**:
 
 ---
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 If anyone **loves** me, he will **keep** my word, <br>
 and my Father will love him,
 
@@ -329,6 +330,7 @@ are not **burdensome**.
 >>>
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 And this is his **commandment**,
 
 that we **believe** in the name <br>
@@ -367,6 +369,7 @@ For everyone who has been **born** of God<br>
 + born &rArr; victorious
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 For all that is in the **world** —
 
 the desires of the **flesh** <br>
@@ -381,6 +384,7 @@ is not from the Father but is from the **world**.
 + 17 passing away w/desires
 
 ---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 For I have the **desire** to do what is right, <br>
 but not the **ability** to carry it out.
 
@@ -397,6 +401,7 @@ is what I keep on doing.
   + **tutor** leading to faith
 
 ---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 **Wretched** man that I am!  <br>
 Who will **deliver** me from this body of death?
 
