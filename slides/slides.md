@@ -191,9 +191,27 @@ loves whoever has been **born** of him.
 [1 John 5:1 (ESV)](# "ref")
 
 >>>
++ greatest 2 **commandments** (Mt22, Mk12):
+  + love **God**, love **neighbour**
 + if I don't love **children** of God,
-  + I'm **not** truly loving God!
-+ gf/bf: love if not **reciprocated**?
+  + I'm **not** truly loving their Father!
++ e.g., as **youth** worker: thankful parents
+  + now as **parent**: find those who truly care for my kid
+
+---
+Whoever receives you receives me, <br>
+and whoever receives me receives him who sent me.
+
+Whoever gives one of these little ones <br>
+even a cup of cold water because he is a disciple, <br>
+truly, I say to you, <br>
+he will by no means lose his reward.
+
+[Matthew 10:40,42 (ESV)](# "ref")
+
+>>>
++ now turn it around:
+  + I welcome other children of God
 
 ---
 <!-- .slide: data-background="white" -->
@@ -213,6 +231,10 @@ loves whoever has been **born** of him.
 2. **Keeping God's Word** [(v2-3)](# "ref")
 3. Trusting in God's Victory [(v4-5)](# "ref")
 
+>>>
++ so I know I **need** to love
++ what does love **look** like?
+
 ---
 By this we **know** that <br>
 we love the children of God,
@@ -221,6 +243,12 @@ when we **love** God <br>
 and **obey** his commandments.
 
 [1 John 5:2 (ESV)](# "ref")
+
+>>>
++ going in circles??? **iff** equivalence
+  + love **children** == love **Father**
++ e.g., as **youth** worker: love **families**
+  + not **distance** kids from parents
 
 ---
 For this is the **love** of God,<br>
