@@ -245,10 +245,14 @@ and **obey** his commandments.
 [1 John 5:2 (ESV)](# "ref")
 
 >>>
-+ going in circles??? **iff** equivalence
++ **iff** bi-dir equivalence
   + love **children** == love **Father**
 + e.g., as **youth** worker: love **families**
   + not **distance** kids from parents
++ as dad: love kid by loving his **mom**
++ love others: not by own feelings
+  + nor by pleasing others
++ but acc **God's** defn + example
 
 ---
 For this is the **love** of God,<br>
@@ -258,8 +262,9 @@ that we **keep** his commandments.
 
 >>>
 + John: love Jesus iff obey commands
-+ love God + obey cmd &rArr; love those born
 + love of God: 4:12 remains in us
++ **keep**: jailer, preserve, hold fast
++ 1 cor 13 rejoices in **truth**
 
 ---
 And his commandments <br>
@@ -313,6 +318,9 @@ that Jesus is the **Son of God**?
 + solution to internal struggle: Ro8, 2:17
 + faith: not power of conviction
 + believe &rArr; victorious
+  + bc **Christ** has won victory
++ over legalism, fear of punishment
+  + despair / resignation to sin
 
 ---
 [11](# "ref")
@@ -334,7 +342,8 @@ does not have life.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **act** like Christ has **triumphed** over sin?
+# Do I **struggle** with worldly passions? 
+# Do I **believe** in Christ's victory? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
