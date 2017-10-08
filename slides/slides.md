@@ -187,7 +187,7 @@ crying, “**Abba! Father!**”
   + not just the ones I'm **friends** with:
 
 ---
-<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 Everyone who *believes* <br>
 that Jesus is the *Christ* <br>
 has been *born* of God,
@@ -249,6 +249,7 @@ he will by no means lose his **reward**.
 + what does love **look** like?
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 By this we **know** that <br>
 we love the children of God,
 
@@ -268,6 +269,7 @@ and **obey** his commandments.
 + but acc **God's** defn + example
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 For this is the **love** of God,<br>
 that we **keep** his commandments.
 
@@ -286,6 +288,7 @@ are not burdensome.
   + keeping God's **commandments**?
 
 ---
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 [Love] does not rejoice at **wrongdoing**, <br>
 but rejoices with the **truth**.
 
@@ -314,6 +317,7 @@ does not keep my words.
   + must keep his **commands**
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 For this is the *love* of God,<br>
 that we *keep* his commandments.
 
@@ -346,6 +350,7 @@ and **love** one another
 3. **Trusting in God's Victory** [(v4-5)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 And his commandments are not *burdensome*.
 
 [4](# "ref")
@@ -405,6 +410,7 @@ through Jesus **Christ** our Lord!
 + solution to internal struggle
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 And this is the **victory** <br>
 that has overcome the world — our **faith**.
 
