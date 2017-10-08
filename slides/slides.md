@@ -435,6 +435,7 @@ that Jesus is the **Son of God**?
 + even over **death** itself:
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 “O **death**, where is your victory? <br>
 O death, where is your **sting**?”
 
@@ -453,6 +454,7 @@ through our Lord **Jesus Christ**.
 +
 
 ---
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 [11](# "ref")
 This is the **testimony**,
 
