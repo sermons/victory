@@ -14,6 +14,10 @@
   + not just academics/career
   + not just family
   + train up our heart
++ 1Jn: response to **Gnosticism**
+  + **mystical** gnosis only to initiates
+  + body/spirit **dualism**
+  + &rArr; earthly life **unimportant**
 
 ---
 [1](# "ref")
@@ -73,8 +77,8 @@ does not have life.
 3. Trusting in God's **Victory** [(v4-5)](# "ref")
 
 >>>
-+ themes in 1Jn: **love**, **child**/Father, **faith**, **command**
-+ response to Gnosticism
++ 1Jn themes: **love**, **child**/Father, **faith**, **command**
++ ch4b-5a: why **love** e.o in Christ?
 
 ---
 ## Reasons to **Love** God's Children
@@ -83,6 +87,14 @@ does not have life.
 + It is **easier** than loving the unseen God [(4:20)](# "ref")
 + It is God's **command** [(4:21)](# "ref")
 + They are **born** of God [(5:1)](# "ref")
+
+>>>
++ **bad** reasons (e.g., to son):
+  + you're **cute** (makes me happy)
+  + I'm your father, I **have to** (oblig)
+  + if I don't, I **look bad** (shame)
+  + so you'll love me **back** (strings)
+  + so you'll **respect** me when old (fear)
 
 ---
 Everyone who **believes** <br>
@@ -141,9 +153,32 @@ has been **born** of God,
 [1 John 5:1a (ESV)](# "ref")
 
 >>>
-+ born: John 3, Gal Hagar
-+ believe &rArr; born
-  + not just **me**, but **others**, too:
++ **born**: Nicodemus (Jn3), Rom8
++ not **predicate** (i.e. born is **consequence** of faith)
+  + cannot **cause** self to be born
++ but an indicative **observation**:
+  + {those who believe} == {those who are born}
++ **work** of salvation done by Christ, not our faith:
+
+---
+God sent forth his **Son**, [...] <br>
+[5](# "ref")
+to **redeem** those who were under the law,  <br>
+so that we might receive **adoption** as sons.
+
+[6](# "ref")
+And because you are sons, God has sent  <br>
+the **Spirit** of his Son into our hearts,  <br>
+crying, “**Abba! Father!**”
+
+[Galatians 4:4-6 (ESV)](# "ref")
+
+>>>
++ Father **sent** (plan of salvation)
+  + Son **redeemed** (work of salvation)
+  + Spirit **testifies** (seal of salvation)
++ point of 1Jn5:1 is that this seal is on **all** believers
+  + not just the ones I'm **friends** with:
 
 ---
 Everyone who *believes* <br>
@@ -156,20 +191,20 @@ loves whoever has been **born** of him.
 [1 John 5:1 (ESV)](# "ref")
 
 >>>
-+ love God &rArr; love those born
++ if I don't love **children** of God,
+  + I'm **not** truly loving God!
++ gf/bf: love if not **reciprocated**?
 
 ---
 <!-- .slide: data-background="white" -->
 # Why should I **love** the children <br> of God?
 
 >>>
-+ gf/bf: love if not reciprocated?
-+ bad reasons (e.g., to son):
-  + you're cute
-  + I'm your father, I have to
-  + if I don't, I look bad
-  + so you'll love me back
-  + so you'll respect me when old
++ makes me **happy**?
+  + bc I **have to**?
+  + so they will **help** me later?
++ &rArr; bc God **chose**, loved, and saved them too
+  + part of meaning of **loving** God
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
