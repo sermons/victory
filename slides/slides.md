@@ -246,10 +246,14 @@ and **obey** his commandments.
 [1 John 5:2 (ESV)](# "ref")
 
 >>>
-+ going in circles??? **iff** equivalence
++ **iff** bi-dir equivalence
   + love **children** == love **Father**
 + e.g., as **youth** worker: love **families**
   + not **distance** kids from parents
++ as dad: love kid by loving his **mom**
++ love others: not by own feelings
+  + nor by pleasing others
++ but acc **God's** defn + example
 
 ---
 For this is the **love** of God,<br>
@@ -258,9 +262,41 @@ that we **keep** his commandments.
 [1 John 5:3a (ESV)](# "ref")
 
 >>>
-+ John: love Jesus iff obey commands
-+ love God + obey cmd &rArr; love those born
-+ love of God: 4:12 remains in us
++ love of God: not our love of God
+  + nor simply God's love to us (passive):
++ 4:12 God **remains** in us
+  + His love **completed** in us
++ **keep**: jailer, preserve, hold fast
++ what does love have to do with
+  + keeping God's **commandments**?
+
+---
+[Love] does not rejoice at **wrongdoing**, <br>
+but rejoices with the **truth**.
+
+[1 Corinthians 13:6](# "ref")
+
+>>>
++ e.g.appendicitis
++ to truly love another &rArr; keep God's Word
++ Christ to disciples **iff**:
+
+---
+If anyone **loves** me, he will **keep** my word, <br>
+and my Father will love him, 
+
+and we will come to him <br>
+and make our **home** with him.
+
+[24](# "ref")
+Whoever does **not** love me <br>
+does not keep my words.
+
+[John 14:23-24 (ESV)](# "ref")
+
+>>>
++ to love **Father**, and **Jesus**, and his **children**:
+  + must keep his **commands**
 
 ---
 And his commandments <br>
@@ -269,8 +305,16 @@ are not **burdensome**.
 [1 John 5:3b (ESV)](# "ref")
 
 >>>
-+ command: 3:23 believe name + love e.o.
-+ burden: heavy (vs glory? )
+
+---
+And this is his commandment, 
+
+that we believe in the name <br>
+of his Son Jesus Christ 
+
+and love one another
+
+[1 John 3:23 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -300,6 +344,49 @@ For everyone who has been **born** of God<br>
 + born &rArr; victorious
 
 ---
+For all that is in the **world** — 
+
+the desires of the **flesh** <br>
+and the desires of the **eyes** <br>
+and **pride** of life — 
+
+is not from the Father but is from the **world**.
+
+[1 John 2:16 (ESV)](# "ref")
+
+>>>
++ 17 passing away w/desires
+
+---
+For I have the **desire** to do what is right, <br>
+but not the **ability** to carry it out. 
+
+[19](# "ref")
+For I do not do the **good** I want, <br>
+but the **evil** I do not want <br>
+is what I keep on doing.
+
+[Romans 7:18-19 (ESV)](# "ref")
+
+>>>
++ role of the **Law**:
+  + make sin utterly **sinful**
+  + **tutor** leading to faith
+
+---
+**Wretched** man that I am!  <br>
+Who will **deliver** me from this body of death? 
+
+[25](# "ref")
+Thanks be to God -- <br>
+through Jesus **Christ** our Lord!
+
+[Romans 7:24-25 (ESV)](# "ref")
+
+>>>
++ solution to internal struggle
+
+---
 And this is the **victory** <br>
 that has overcome the world — our **faith**.
 
@@ -311,9 +398,11 @@ that Jesus is the **Son of God**?
 [1 John 5:4b-5 (ESV)](# "ref")
 
 >>>
-+ solution to internal struggle: Ro8, 2:17
 + faith: not power of conviction
 + believe &rArr; victorious
+  + bc **Christ** has won victory
++ over legalism, fear of punishment
+  + despair / resignation to sin
 
 ---
 [11](# "ref")
@@ -335,7 +424,8 @@ does not have life.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **act** like Christ has **triumphed** over sin?
+# Do I **struggle** with worldly passions? 
+# Do I **believe** in Christ's victory? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
