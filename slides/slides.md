@@ -283,7 +283,7 @@ but rejoices with the **truth**.
 
 ---
 If anyone **loves** me, he will **keep** my word, <br>
-and my Father will love him, 
+and my Father will love him,
 
 and we will come to him <br>
 and make our **home** with him.
@@ -307,10 +307,10 @@ are not **burdensome**.
 >>>
 
 ---
-And this is his commandment, 
+And this is his commandment,
 
 that we believe in the name <br>
-of his Son Jesus Christ 
+of his Son Jesus Christ
 
 and love one another
 
@@ -344,11 +344,11 @@ For everyone who has been **born** of God<br>
 + born &rArr; victorious
 
 ---
-For all that is in the **world** — 
+For all that is in the **world** —
 
 the desires of the **flesh** <br>
 and the desires of the **eyes** <br>
-and **pride** of life — 
+and **pride** of life —
 
 is not from the Father but is from the **world**.
 
@@ -359,7 +359,7 @@ is not from the Father but is from the **world**.
 
 ---
 For I have the **desire** to do what is right, <br>
-but not the **ability** to carry it out. 
+but not the **ability** to carry it out.
 
 [19](# "ref")
 For I do not do the **good** I want, <br>
@@ -375,7 +375,7 @@ is what I keep on doing.
 
 ---
 **Wretched** man that I am!  <br>
-Who will **deliver** me from this body of death? 
+Who will **deliver** me from this body of death?
 
 [25](# "ref")
 Thanks be to God -- <br>
@@ -403,6 +403,24 @@ that Jesus is the **Son of God**?
   + bc **Christ** has won victory
 + over legalism, fear of punishment
   + despair / resignation to sin
++ even over **death** itself:
+
+---
+“O **death**, where is your victory? <br>
+O death, where is your **sting**?”
+
+[56](# "ref")
+The sting of death is **sin**, <br>
+and the power of sin is the **law**.
+
+[57](# "ref")
+But thanks be to God, who gives us the **victory** <br>
+through our Lord **Jesus Christ**.
+
+[1 Corinthians 15:56-57 (ESV)](# "ref")
+
+>>>
++
 
 ---
 [11](# "ref")
@@ -420,12 +438,11 @@ does not have life.
 [1 John 5:11-12 (ESV)](# "ref")
 
 >>>
-+ mercy triumphs over judgment (Jam2)
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **struggle** with worldly passions? 
-# Do I **believe** in Christ's victory? 
+# Do I **struggle** with worldly passions?
+# Do I **believe** in Christ's victory?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
