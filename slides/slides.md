@@ -199,19 +199,20 @@ loves whoever has been **born** of him.
   + now as **parent**: find those who truly care for my kid
 
 ---
-Whoever receives you receives me, <br>
-and whoever receives me receives him who sent me.
+Whoever receives **you** receives **me**, <br>
+and whoever receives me receives him who **sent** me.
 
-Whoever gives one of these little ones <br>
-even a cup of cold water because he is a disciple, <br>
+Whoever gives one of these **little ones** <br>
+even a cup of **cold water** because he is a **disciple**, <br>
 truly, I say to you, <br>
-he will by no means lose his reward.
+he will by no means lose his **reward**.
 
 [Matthew 10:40,42 (ESV)](# "ref")
 
 >>>
-+ now turn it around:
-  + I welcome other children of God
++ now turn it **around**:
+  + I welcome other **children** of God
++ in so doing, welcoming **Christ**, and the **Father**
 
 ---
 <!-- .slide: data-background="white" -->
