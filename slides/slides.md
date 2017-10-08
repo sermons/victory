@@ -77,6 +77,14 @@ does not have life.
 + response to Gnosticism
 
 ---
+## Reasons to **Love** God's Children
++ To be more **godly** [(4:7)](# "ref")
++ Because God **first** loved us [(4:11,19)](# "ref")
++ It is **easier** than loving the unseen God [(4:20)](# "ref")
++ It is God's **command** [(4:21)](# "ref")
++ They are **born** of God [(5:1)](# "ref")
+
+---
 Everyone who **believes** <br>
 that Jesus is the **Christ**
 
@@ -89,7 +97,40 @@ has been *born* of God,
   + not intellec **assent**
   + trust &rArr; **action**
 + not just that God **exists**
-+ Christ: "I am" claims (John)
++ Christ: "**I am**" claims in gospel of John
+
+---
+Jesus said to them, <br>
+“Truly, truly, I say to you, <br>
+before Abraham was, **I am**.”
+
+[59](# "ref")
+So they picked up **stones** to throw at him
+
+[John 8:58-59 (ESV)](# "ref")
+
+>>>
++ 1 of 3 **absolute** "I AM" statements
++ plus 7 **metaphorical** declarations
++ why worthy of **stoning**?
+
+---
+"If ... they ask me, ‘What is his **name**?’ <br>
+what shall I say to them?"
+
+[14](# "ref")
+God said to Moses, “**I AM** who **I AM**.”
+
+And he said, “Say this to the people of Israel:<br>
+‘**I AM** has sent me to you.’”
+
+[Exodus 3:13-14 (ESV)](# "ref")
+
+>>>
++ Jesus claimed to be **Yahweh** / Jehovah (LORD)
++ **cannot** believe Jesus to be a **good** person
+  + without believing He is **God**
++ else making Him out to be a **liar**
 
 ---
 Everyone who *believes* <br>
@@ -129,11 +170,6 @@ loves whoever has been **born** of him.
   + if I don't, I look bad
   + so you'll love me back
   + so you'll respect me when old
-+ good reasons:
-  + to be more godly (4:7)
-  + bc God first loved us (4:11,19)
-  + easier than loving God (4:20)
-  + command (4:21)
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
